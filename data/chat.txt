@@ -1,0 +1,6 @@
+ Ctrl+Alt+Shift+Z=주석
+ Ctrl+Alt+Shift+R=리팩토링
+ Ctrl+Alt+Shift+C=코드리뷰
+ Ctrl+Alt+Shift+G=코드 만들기
+
+
